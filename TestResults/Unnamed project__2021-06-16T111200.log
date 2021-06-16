@@ -1,0 +1,246 @@
+﻿2021-06-16T11:12:00.4060959-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-16T11:12:00.4060959-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.8.12 in Framework clr40 in x86 mode execution started
+2021-06-16T11:12:00.4060959-04:00;VSTestExecutionThread;Info;TestAdapter Location: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-16T11:12:00.4060959-04:00;VSTestExecutionThread;Info;Current UserName: 'qpm5', MachineName: 'DESKTOP-3A1SVR2'
+2021-06-16T11:12:00.4419998-04:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T11:12:00.4429676-04:00;VSTestExecutionThread;Info;Output folder configured to "D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults" (default)
+2021-06-16T11:12:00.4429676-04:00;VSTestExecutionThread;Info;Profile: 
+2021-06-16T11:12:00.4758802-04:00;VSTestExecutionThread;Info;Log file path: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults\Unnamed project__2021-06-16T111200.log
+2021-06-16T11:12:00.4828607-04:00;Thread#13;Info;Checking activation
+2021-06-16T11:12:01.8494512-04:00;Thread#13;Info;Activated.
+2021-06-16T11:12:01.8494512-04:00;Thread#13;Info;Activation check completed
+2021-06-16T11:12:01.8494512-04:00;Thread#13;Info;Starting test run
+2021-06-16T11:12:01.8604225-04:00;Thread#13;Info;Discovering target: Default
+2021-06-16T11:12:01.8604225-04:00;Thread#13;Info;Discovering tests from assembly: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T11:12:02.0768432-04:00;Thread#13;Info;Discovered tests from assembly: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T11:12:02.0778416-04:00:Test Suite Dump
+2021-06-16T11:12:02.0788378-04:00:#0: Unnamed project/ - 
+2021-06-16T11:12:02.0788378-04:00:#1: Default - 
+2021-06-16T11:12:02.0788378-04:00:#2: BDDPractice - 
+2021-06-16T11:12:02.0788378-04:00:#3: FormFeatures - 
+2021-06-16T11:12:02.1027748-04:00:#4: User fills out form - TestAssembly:BDDPractice/Feature:FormFeatures/Scenario:User+fills+out+form
+2021-06-16T11:12:02.1027748-04:00:#5: User fils out form correctly - TestAssembly:BDDPractice/Feature:FormFeatures/Scenario:User+fils+out+form+correctly
+2021-06-16T11:12:02.1037716-04:00:End: Test Suite Dump
+2021-06-16T11:12:02.1187538-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T11:12:02.1197541-04:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-16T11:12:02.1197541-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-16T11:12:02.1227409-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T11:12:02.1227409-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-16T11:12:02.1227409-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-16T11:12:02.1227409-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-16T11:12:02.1237375-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-16T11:12:02.1247331-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-16T11:12:02.1267302-04:00:Thread #0: creating new test thread executor for BDDPractice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-16T11:12:02.1277272-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-16T11:12:02.1546348-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-16T11:12:02.1556323-04:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-06-16T11:12:03.3649871-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\LivingDoc.SpecFlowPlugin.dll
+2021-06-16T11:12:03.9499754-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-16T11:12:03.9810530-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T11:12:03.9810530-04:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in BDDPractice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-16T11:12:03.9860409-04:00:Thread#0:T:-> Using default config
+2021-06-16T11:12:04.5883366-04:00:Thread#0: Test #4/0 is started on thread #0
+2021-06-16T11:12:04.6042953-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T11:12:04.7618724-04:00:Thread#0:T:error: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html. (0.1s)
+2021-06-16T11:12:04.7638674-04:00:Thread#0:B:When User leaves form blank
+2021-06-16T11:12:04.7638674-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7668591-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.7668591-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7668591-04:00:Thread#0:B:Then Alert will read "Email is blank"
+2021-06-16T11:12:04.7688539-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7688539-04:00:Thread#0:B:When User leaves password blank
+2021-06-16T11:12:04.7688539-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7688539-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.7688539-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7688539-04:00:Thread#0:B:Then Alert will read "password is blank"
+2021-06-16T11:12:04.7688539-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7688539-04:00:Thread#0:B:When User leaves address blank
+2021-06-16T11:12:04.7698515-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7698515-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.7698515-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7698515-04:00:Thread#0:B:Then Alert will read "address is blank"
+2021-06-16T11:12:04.7698515-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7698515-04:00:Thread#0:B:When User leaves city blank
+2021-06-16T11:12:04.7698515-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7698515-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.7698515-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7698515-04:00:Thread#0:B:Then Alert will read "city is blank"
+2021-06-16T11:12:04.7708489-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7708489-04:00:Thread#0:B:When User leaves zip blank
+2021-06-16T11:12:04.7708489-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7708489-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.7708489-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7708489-04:00:Thread#0:B:Then Alert will read "zip is blank"
+2021-06-16T11:12:04.7708489-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.7838141-04:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-06-16T11:12:04.7848114-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T11:12:04.7848114-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-16T11:12:04.7848114-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-16T11:12:04.7848114-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T11:12:04.7848114-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-16T11:12:04.7848114-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-16T11:12:04.7848114-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-16T11:12:04.7848114-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-16T11:12:04.7848114-04:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-16T11:12:04.7948098-04:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 0.2054755 seconds
+2021-06-16T11:12:04.7957819-04:00:Thread#0: Test #4/1 is started on thread #0
+2021-06-16T11:12:04.7997714-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T11:12:04.8017658-04:00:Thread#0:T:error: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html. (0.0s)
+2021-06-16T11:12:04.8017658-04:00:Thread#0:B:When User leaves form blank
+2021-06-16T11:12:04.8017658-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8017658-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8027632-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8027632-04:00:Thread#0:B:Then Alert will read "Email is blank"
+2021-06-16T11:12:04.8027632-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8027632-04:00:Thread#0:B:When User leaves password blank
+2021-06-16T11:12:04.8027632-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8027632-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8027632-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8027632-04:00:Thread#0:B:Then Alert will read "password is blank"
+2021-06-16T11:12:04.8027632-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8027632-04:00:Thread#0:B:When User leaves address blank
+2021-06-16T11:12:04.8027632-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8027632-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8027632-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8027632-04:00:Thread#0:B:Then Alert will read "address is blank"
+2021-06-16T11:12:04.8037605-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8037605-04:00:Thread#0:B:When User leaves city blank
+2021-06-16T11:12:04.8037605-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8037605-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8037605-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8037605-04:00:Thread#0:B:Then Alert will read "city is blank"
+2021-06-16T11:12:04.8037605-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8037605-04:00:Thread#0:B:When User leaves zip blank
+2021-06-16T11:12:04.8037605-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8037605-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8037605-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8047584-04:00:Thread#0:B:Then Alert will read "zip is blank"
+2021-06-16T11:12:04.8047584-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8047584-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T11:12:04.8047584-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-16T11:12:04.8047584-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-16T11:12:04.8047584-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T11:12:04.8047584-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-16T11:12:04.8047584-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-16T11:12:04.8047584-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-16T11:12:04.8047584-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-16T11:12:04.8047584-04:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-16T11:12:04.8057557-04:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0.0099738 seconds
+2021-06-16T11:12:04.8057557-04:00:Thread#0: Test #4/2 is started on thread #0
+2021-06-16T11:12:04.8057557-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T11:12:04.8077503-04:00:Thread#0:T:error: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html. (0.0s)
+2021-06-16T11:12:04.8077503-04:00:Thread#0:B:When User leaves form blank
+2021-06-16T11:12:04.8077503-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8077503-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8077503-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8077503-04:00:Thread#0:B:Then Alert will read "Email is blank"
+2021-06-16T11:12:04.8087701-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8087701-04:00:Thread#0:B:When User leaves password blank
+2021-06-16T11:12:04.8087701-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8087701-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8087701-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8087701-04:00:Thread#0:B:Then Alert will read "password is blank"
+2021-06-16T11:12:04.8087701-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8087701-04:00:Thread#0:B:When User leaves address blank
+2021-06-16T11:12:04.8087701-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8087701-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8087701-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8087701-04:00:Thread#0:B:Then Alert will read "address is blank"
+2021-06-16T11:12:04.8087701-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8087701-04:00:Thread#0:B:When User leaves city blank
+2021-06-16T11:12:04.8097681-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8097681-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8097681-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8097681-04:00:Thread#0:B:Then Alert will read "city is blank"
+2021-06-16T11:12:04.8097681-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8097681-04:00:Thread#0:B:When User leaves zip blank
+2021-06-16T11:12:04.8097681-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8097681-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8097681-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8097681-04:00:Thread#0:B:Then Alert will read "zip is blank"
+2021-06-16T11:12:04.8097681-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8107597-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T11:12:04.8107597-04:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-06-16T11:12:04.8107597-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-16T11:12:04.8107597-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T11:12:04.8107597-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-16T11:12:04.8107597-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-16T11:12:04.8107597-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-16T11:12:04.8107597-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-16T11:12:04.8107597-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-16T11:12:04.8107597-04:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0.005004 seconds
+2021-06-16T11:12:04.8107597-04:00:Thread#0: Test #5/0 is started on thread #0
+2021-06-16T11:12:04.8117400-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T11:12:04.8137348-04:00:Thread#0:T:error: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html. (0.0s)
+2021-06-16T11:12:04.8137348-04:00:Thread#0:B:When User inputs all information
+2021-06-16T11:12:04.8147561-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8147561-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8147561-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8147561-04:00:Thread#0:B:Then Alert will read "Submitted Form"
+2021-06-16T11:12:04.8147561-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8147561-04:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2021-06-16T11:12:04.8147561-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T11:12:04.8147561-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-06-16T11:12:04.8147561-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-16T11:12:04.8147561-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T11:12:04.8147561-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-16T11:12:04.8147561-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-16T11:12:04.8147561-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-16T11:12:04.8147561-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-16T11:12:04.8147561-04:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-16T11:12:04.8147561-04:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 0.0039964 seconds
+2021-06-16T11:12:04.8157287-04:00:Thread#0: Test #5/1 is started on thread #0
+2021-06-16T11:12:04.8157287-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T11:12:04.8177231-04:00:Thread#0:T:error: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html. (0.0s)
+2021-06-16T11:12:04.8177231-04:00:Thread#0:B:When User inputs all information
+2021-06-16T11:12:04.8177231-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8177231-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8177231-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8177231-04:00:Thread#0:B:Then Alert will read "Submitted Form"
+2021-06-16T11:12:04.8177231-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8177231-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T11:12:04.8177231-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-06-16T11:12:04.8177231-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-16T11:12:04.8177231-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T11:12:04.8177231-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-16T11:12:04.8177231-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-16T11:12:04.8177231-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-16T11:12:04.8177231-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-16T11:12:04.8177231-04:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-16T11:12:04.8187212-04:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 0.0029925 seconds
+2021-06-16T11:12:04.8187212-04:00:Thread#0: Test #5/2 is started on thread #0
+2021-06-16T11:12:04.8187212-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T11:12:04.8207151-04:00:Thread#0:T:error: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html. (0.0s)
+2021-06-16T11:12:04.8207151-04:00:Thread#0:B:When User inputs all information
+2021-06-16T11:12:04.8207151-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8207151-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T11:12:04.8207151-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8207151-04:00:Thread#0:B:Then Alert will read "Submitted Form"
+2021-06-16T11:12:04.8217126-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T11:12:04.8217126-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T11:12:04.8217126-04:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-16T11:12:04.8217126-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-16T11:12:04.8217126-04:00:Thread#0:Scheduler: No more tests for thread
+2021-06-16T11:12:04.8227099-04:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 0.0039887 seconds
+2021-06-16T11:12:04.8589886-04:00:Thread#0:T:-> LivingDocPlugin: Output generated in: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\TestExecution.json
+2021-06-16T11:12:05.3939337-04:00:Trying to cancel thread
+2021-06-16T11:12:05.3939337-04:00:Thread cancelled
+2021-06-16T11:12:05.3979444-04:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-16T11:12:05.3979444-04:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-16T11:12:05.3979444-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-16T11:12:05.4019124-04:00;Thread#13;Info;test run finished
+2021-06-16T11:12:05.4019124-04:00;Thread#13;Info;publishing test results
+2021-06-16T11:12:05.5652542-04:00;Thread#13;Info;test results published
+2021-06-16T11:12:05.5652542-04:00;Thread#13;Info;generating reports
+2021-06-16T11:12:05.6390578-04:00;Thread#13;Info;Starting external report generation process
+2021-06-16T11:12:06.9596225-04:00;Thread#13;Info;Successfully generated reports.
+2021-06-16T11:12:06.9605930-04:00;Thread#13;Info;Successfully generated reports
+2021-06-16T11:12:06.9665762-04:00:Total: 2 (test executions: 6)
+2021-06-16T11:12:06.9675742-04:00:Succeeded: 0
+2021-06-16T11:12:06.9686022-04:00:Ignored: 0
+2021-06-16T11:12:06.9686022-04:00:Pending: 0
+2021-06-16T11:12:06.9686022-04:00:Skipped: 0
+2021-06-16T11:12:06.9686022-04:00:Failed: 2
+2021-06-16T11:12:06.9755797-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-16T11:12:06.9755797-04:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults\Unnamed project__2021-06-16T111200.html'
+========== End of log file ==========

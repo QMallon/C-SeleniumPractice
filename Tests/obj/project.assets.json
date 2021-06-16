@@ -723,7 +723,7 @@
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
         }
       },
-      "SpecFlow/3.8.14": {
+      "SpecFlow/3.8.7": {
         "type": "package",
         "dependencies": {
           "BoDi": "1.5.0",
@@ -3136,10 +3136,10 @@
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
-    "SpecFlow/3.8.14": {
-      "sha512": "/f3GdHWXTjnHb6XCbEwduRDi+rFAC+/GWbM3wqanlazcVBTPZ+OI/G95slXO+7Gx60KjZAuJ3uSWVYPKKjqQuQ==",
+    "SpecFlow/3.8.7": {
+      "sha512": "+4zcmkgXo+k530ftdku0Du7rpreGfiN4wmdN68GxAwLiwvHpGQ3X3BBoDTDTeuJFMaTt+cQVkqdnrpG4LFpCsQ==",
       "type": "package",
-      "path": "specflow/3.8.14",
+      "path": "specflow/3.8.7",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3158,7 +3158,7 @@
         "lib/netstandard2.0/TechTalk.SpecFlow.dll",
         "lib/netstandard2.0/TechTalk.SpecFlow.pdb",
         "lib/netstandard2.0/TechTalk.SpecFlow.xml",
-        "specflow.3.8.14.nupkg.sha512",
+        "specflow.3.8.7.nupkg.sha512",
         "specflow.nuspec"
       ]
     },
@@ -7016,7 +7016,7 @@
       "Selenium.Support >= 3.141.0",
       "Selenium.WebDriver >= 3.141.0",
       "Selenium.WebDriver.ChromeDriver >= 91.0.4472.10100",
-      "SpecFlow >= 3.8.14",
+      "SpecFlow >= 3.8.7",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -7093,7 +7093,7 @@
           },
           "SpecFlow": {
             "target": "Package",
-            "version": "[3.8.14, )"
+            "version": "[3.8.7, )"
           },
           "coverlet.collector": {
             "target": "Package",

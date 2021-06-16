@@ -15,7 +15,7 @@
           "Selenium.Support": "3.141.0",
           "Selenium.WebDriver": "3.141.0",
           "Selenium.WebDriver.ChromeDriver": "91.0.4472.10100",
-          "SpecFlow": "3.8.14",
+          "SpecFlow": "3.8.7",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
@@ -561,7 +561,7 @@
         }
       },
       "Selenium.WebDriver.ChromeDriver/91.0.4472.10100": {},
-      "SpecFlow/3.8.14": {
+      "SpecFlow/3.8.7": {
         "dependencies": {
           "BoDi": "1.5.0",
           "Cucumber.Messages": "6.0.1",
@@ -576,7 +576,7 @@
         "runtime": {
           "lib/netstandard2.0/TechTalk.SpecFlow.dll": {
             "assemblyVersion": "3.8.0.0",
-            "fileVersion": "3.8.14.25516"
+            "fileVersion": "3.8.7.58532"
           }
         }
       },
@@ -1676,12 +1676,12 @@
       "path": "selenium.webdriver.chromedriver/91.0.4472.10100",
       "hashPath": "selenium.webdriver.chromedriver.91.0.4472.10100.nupkg.sha512"
     },
-    "SpecFlow/3.8.14": {
+    "SpecFlow/3.8.7": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/f3GdHWXTjnHb6XCbEwduRDi+rFAC+/GWbM3wqanlazcVBTPZ+OI/G95slXO+7Gx60KjZAuJ3uSWVYPKKjqQuQ==",
-      "path": "specflow/3.8.14",
-      "hashPath": "specflow.3.8.14.nupkg.sha512"
+      "sha512": "sha512-+4zcmkgXo+k530ftdku0Du7rpreGfiN4wmdN68GxAwLiwvHpGQ3X3BBoDTDTeuJFMaTt+cQVkqdnrpG4LFpCsQ==",
+      "path": "specflow/3.8.7",
+      "hashPath": "specflow.3.8.7.nupkg.sha512"
     },
     "System.AppContext/4.3.0": {
       "type": "package",

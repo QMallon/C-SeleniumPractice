@@ -1,0 +1,252 @@
+﻿2021-06-16T12:13:36.7138230-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-16T12:13:36.7138230-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.8.12 in Framework clr40 in x86 mode execution started
+2021-06-16T12:13:36.7138230-04:00;VSTestExecutionThread;Info;TestAdapter Location: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-16T12:13:36.7138230-04:00;VSTestExecutionThread;Info;Current UserName: 'qpm5', MachineName: 'DESKTOP-3A1SVR2'
+2021-06-16T12:13:36.7517208-04:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:13:36.7517208-04:00;VSTestExecutionThread;Info;Output folder configured to "D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults" (default)
+2021-06-16T12:13:36.7517208-04:00;VSTestExecutionThread;Info;Profile: 
+2021-06-16T12:13:36.7796468-04:00;VSTestExecutionThread;Info;Log file path: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults\Unnamed project__2021-06-16T121336.log
+2021-06-16T12:13:36.7866285-04:00;Thread#13;Info;Checking activation
+2021-06-16T12:13:36.8364942-04:00;Thread#13;Info;Activated.
+2021-06-16T12:13:36.8364942-04:00;Thread#13;Info;Activation check completed
+2021-06-16T12:13:36.8364942-04:00;Thread#13;Info;Starting test run
+2021-06-16T12:13:36.8614276-04:00;Thread#13;Info;Discovering target: Default
+2021-06-16T12:13:36.8614276-04:00;Thread#13;Info;Discovering tests from assembly: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:13:37.0738595-04:00;Thread#13;Info;Discovered tests from assembly: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:13:37.0748684-04:00:Test Suite Dump
+2021-06-16T12:13:37.0758546-04:00:#0: Unnamed project/ - 
+2021-06-16T12:13:37.0758546-04:00:#1: Default - 
+2021-06-16T12:13:37.0758546-04:00:#2: BDDPractice - 
+2021-06-16T12:13:37.0758546-04:00:#3: FormFeatures - 
+2021-06-16T12:13:37.0997895-04:00:#4: User fills out form - TestAssembly:BDDPractice/Feature:FormFeatures/Scenario:User+fills+out+form
+2021-06-16T12:13:37.0997895-04:00:#5: User fils out form correctly - TestAssembly:BDDPractice/Feature:FormFeatures/Scenario:User+fils+out+form+correctly
+2021-06-16T12:13:37.0997895-04:00:End: Test Suite Dump
+2021-06-16T12:13:37.1147505-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:13:37.1157483-04:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-16T12:13:37.1157483-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-16T12:13:37.1197374-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:13:37.1197374-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:13:37.1197374-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:13:37.1197374-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-16T12:13:37.1197374-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-16T12:13:37.1207344-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-16T12:13:37.1227293-04:00:Thread #0: creating new test thread executor for BDDPractice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-16T12:13:37.1237284-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-16T12:13:37.1257213-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-16T12:13:37.1267187-04:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-06-16T12:13:37.3391509-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\LivingDoc.SpecFlowPlugin.dll
+2021-06-16T12:13:37.3929071-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-16T12:13:37.3959002-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:13:37.3959002-04:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in BDDPractice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-16T12:13:37.4008879-04:00:Thread#0:T:-> Using default config
+2021-06-16T12:13:37.7416024-04:00:Thread#0: Test #4/0 is started on thread #0
+2021-06-16T12:13:39.2210114-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:13:47.5606805-04:00:Thread#0:T:error: unknown error: net::ERR_CONNECTION_REFUSED
+2021-06-16T12:13:47.5617006-04:00:Thread#0:T:  (Session info: chrome=91.0.4472.106) (8.3s)
+2021-06-16T12:13:47.5626976-04:00:Thread#0:B:When User leaves form blank
+2021-06-16T12:13:47.5626976-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5656893-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:47.5656893-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5656893-04:00:Thread#0:B:Then Alert will read "Email is blank"
+2021-06-16T12:13:47.5666864-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5666864-04:00:Thread#0:B:When User leaves password blank
+2021-06-16T12:13:47.5666864-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5666864-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:47.5666864-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5666864-04:00:Thread#0:B:Then Alert will read "password is blank"
+2021-06-16T12:13:47.5676621-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5676621-04:00:Thread#0:B:When User leaves address blank
+2021-06-16T12:13:47.5676621-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5676621-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:47.5676621-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5676621-04:00:Thread#0:B:Then Alert will read "address is blank"
+2021-06-16T12:13:47.5676621-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5676621-04:00:Thread#0:B:When User leaves city blank
+2021-06-16T12:13:47.5676621-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5676621-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:47.5676621-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5686592-04:00:Thread#0:B:Then Alert will read "city is blank"
+2021-06-16T12:13:47.5686592-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5686592-04:00:Thread#0:B:When User leaves zip blank
+2021-06-16T12:13:47.5686592-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5686592-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:47.5686592-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5686592-04:00:Thread#0:B:Then Alert will read "zip is blank"
+2021-06-16T12:13:47.5686592-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:47.5806494-04:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-06-16T12:13:47.5816480-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:13:47.5816480-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-16T12:13:47.5816480-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-16T12:13:47.5816480-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:13:47.5816480-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:13:47.5816480-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:13:47.5816480-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-16T12:13:47.5816480-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-16T12:13:47.5816480-04:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-16T12:13:47.7292502-04:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 9.9866492 seconds
+2021-06-16T12:13:47.7302702-04:00:Thread#0: Test #4/1 is started on thread #0
+2021-06-16T12:13:48.9742657-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:13:57.2139652-04:00:Thread#0:T:error: unknown error: net::ERR_CONNECTION_REFUSED
+2021-06-16T12:13:57.2139652-04:00:Thread#0:T:  (Session info: chrome=91.0.4472.106) (8.2s)
+2021-06-16T12:13:57.2139652-04:00:Thread#0:B:When User leaves form blank
+2021-06-16T12:13:57.2149617-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2149617-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:57.2149617-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2149617-04:00:Thread#0:B:Then Alert will read "Email is blank"
+2021-06-16T12:13:57.2149617-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2149617-04:00:Thread#0:B:When User leaves password blank
+2021-06-16T12:13:57.2149617-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2149617-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:57.2149617-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2149617-04:00:Thread#0:B:Then Alert will read "password is blank"
+2021-06-16T12:13:57.2149617-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2159590-04:00:Thread#0:B:When User leaves address blank
+2021-06-16T12:13:57.2159590-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2159590-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:57.2159590-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2159590-04:00:Thread#0:B:Then Alert will read "address is blank"
+2021-06-16T12:13:57.2159590-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2159590-04:00:Thread#0:B:When User leaves city blank
+2021-06-16T12:13:57.2159590-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2159590-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:57.2159590-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2159590-04:00:Thread#0:B:Then Alert will read "city is blank"
+2021-06-16T12:13:57.2159590-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2159590-04:00:Thread#0:B:When User leaves zip blank
+2021-06-16T12:13:57.2159590-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2169850-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:13:57.2169850-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2169850-04:00:Thread#0:B:Then Alert will read "zip is blank"
+2021-06-16T12:13:57.2169850-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:13:57.2169850-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:13:57.2169850-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-06-16T12:13:57.2169850-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-16T12:13:57.2169850-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:13:57.2169850-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:13:57.2169850-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:13:57.2169850-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-16T12:13:57.2169850-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-16T12:13:57.2169850-04:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-16T12:13:57.3426715-04:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 9.6124013 seconds
+2021-06-16T12:13:57.3426715-04:00:Thread#0: Test #4/2 is started on thread #0
+2021-06-16T12:13:58.5965376-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:14:06.8566351-04:00:Thread#0:T:error: unknown error: net::ERR_CONNECTION_REFUSED
+2021-06-16T12:14:06.8566351-04:00:Thread#0:T:  (Session info: chrome=91.0.4472.106) (8.3s)
+2021-06-16T12:14:06.8566351-04:00:Thread#0:B:When User leaves form blank
+2021-06-16T12:14:06.8576473-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8576473-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:06.8576473-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8576473-04:00:Thread#0:B:Then Alert will read "Email is blank"
+2021-06-16T12:14:06.8576473-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8576473-04:00:Thread#0:B:When User leaves password blank
+2021-06-16T12:14:06.8586299-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8586299-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:06.8586299-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8586299-04:00:Thread#0:B:Then Alert will read "password is blank"
+2021-06-16T12:14:06.8586299-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8586299-04:00:Thread#0:B:When User leaves address blank
+2021-06-16T12:14:06.8586299-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8586299-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:06.8586299-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8586299-04:00:Thread#0:B:Then Alert will read "address is blank"
+2021-06-16T12:14:06.8596269-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8596269-04:00:Thread#0:B:When User leaves city blank
+2021-06-16T12:14:06.8596269-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8596269-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:06.8596269-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8596269-04:00:Thread#0:B:Then Alert will read "city is blank"
+2021-06-16T12:14:06.8596269-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8596269-04:00:Thread#0:B:When User leaves zip blank
+2021-06-16T12:14:06.8596269-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8596269-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:06.8606250-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8606250-04:00:Thread#0:B:Then Alert will read "zip is blank"
+2021-06-16T12:14:06.8606250-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:06.8606250-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:14:06.8606250-04:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-06-16T12:14:06.8606250-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-16T12:14:06.8606250-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:14:06.8606250-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:14:06.8606250-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:14:06.8606250-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-16T12:14:06.8606250-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-16T12:14:06.8606250-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-16T12:14:07.0172321-04:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 9.6745606 seconds
+2021-06-16T12:14:07.0182013-04:00:Thread#0: Test #5/0 is started on thread #0
+2021-06-16T12:14:08.2570516-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:14:16.5035395-04:00:Thread#0:T:error: unknown error: net::ERR_CONNECTION_REFUSED
+2021-06-16T12:14:16.5035395-04:00:Thread#0:T:  (Session info: chrome=91.0.4472.106) (8.2s)
+2021-06-16T12:14:16.5035395-04:00:Thread#0:B:When User inputs all information
+2021-06-16T12:14:16.5035395-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:16.5035395-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:16.5035395-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:16.5035395-04:00:Thread#0:B:Then Alert will read "Submitted Form"
+2021-06-16T12:14:16.5045177-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:16.5045177-04:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2021-06-16T12:14:16.5045177-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:14:16.5045177-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-06-16T12:14:16.5045177-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-16T12:14:16.5045177-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:14:16.5045177-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:14:16.5045177-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:14:16.5045177-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-16T12:14:16.5045177-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-16T12:14:16.5045177-04:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-06-16T12:14:16.6286519-04:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 9.6104506 seconds
+2021-06-16T12:14:16.6286519-04:00:Thread#0: Test #5/1 is started on thread #0
+2021-06-16T12:14:17.8842776-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:14:26.1327988-04:00:Thread#0:T:error: unknown error: net::ERR_CONNECTION_REFUSED
+2021-06-16T12:14:26.1327988-04:00:Thread#0:T:  (Session info: chrome=91.0.4472.106) (8.2s)
+2021-06-16T12:14:26.1327988-04:00:Thread#0:B:When User inputs all information
+2021-06-16T12:14:26.1337940-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:26.1337940-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:26.1337940-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:26.1337940-04:00:Thread#0:B:Then Alert will read "Submitted Form"
+2021-06-16T12:14:26.1337940-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:26.1337940-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:14:26.1337940-04:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2021-06-16T12:14:26.1337940-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-16T12:14:26.1337940-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:14:26.1337940-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:14:26.1337940-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:14:26.1337940-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-16T12:14:26.1337940-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-16T12:14:26.1337940-04:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-06-16T12:14:26.2284701-04:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 9.5988259 seconds
+2021-06-16T12:14:26.2284701-04:00:Thread#0: Test #5/2 is started on thread #0
+2021-06-16T12:14:27.4575999-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:14:35.7139130-04:00:Thread#0:T:error: unknown error: net::ERR_CONNECTION_REFUSED
+2021-06-16T12:14:35.7149071-04:00:Thread#0:T:  (Session info: chrome=91.0.4472.106) (8.3s)
+2021-06-16T12:14:35.7149071-04:00:Thread#0:B:When User inputs all information
+2021-06-16T12:14:35.7149071-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:35.7149071-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:14:35.7149071-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:35.7149071-04:00:Thread#0:B:Then Alert will read "Submitted Form"
+2021-06-16T12:14:35.7149071-04:00:Thread#0:T:skipped because of previous errors
+2021-06-16T12:14:35.7149071-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:14:35.7149071-04:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-16T12:14:35.7149071-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-16T12:14:35.7149071-04:00:Thread#0:Scheduler: No more tests for thread
+2021-06-16T12:14:35.8284866-04:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 9.6000165 seconds
+2021-06-16T12:14:35.8699362-04:00:Thread#0:T:-> LivingDocPlugin: Output generated in: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\TestExecution.json
+2021-06-16T12:14:36.3455559-04:00:Trying to cancel thread
+2021-06-16T12:14:36.3455559-04:00:Thread cancelled
+2021-06-16T12:14:36.3495417-04:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-16T12:14:36.3495417-04:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-16T12:14:36.3495417-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-16T12:14:36.3525294-04:00;Thread#13;Info;test run finished
+2021-06-16T12:14:36.3525294-04:00;Thread#13;Info;publishing test results
+2021-06-16T12:14:36.3842379-04:00;Thread#13;Info;test results published
+2021-06-16T12:14:36.3842379-04:00;Thread#13;Info;generating reports
+2021-06-16T12:14:36.4517004-04:00;Thread#13;Info;Starting external report generation process
+2021-06-16T12:14:37.5144586-04:00;Thread#13;Info;Successfully generated reports.
+2021-06-16T12:14:37.5154559-04:00;Thread#13;Info;Successfully generated reports
+2021-06-16T12:14:37.5214389-04:00:Total: 2 (test executions: 6)
+2021-06-16T12:14:37.5224361-04:00:Succeeded: 0
+2021-06-16T12:14:37.5224361-04:00:Ignored: 0
+2021-06-16T12:14:37.5234337-04:00:Pending: 0
+2021-06-16T12:14:37.5234337-04:00:Skipped: 0
+2021-06-16T12:14:37.5234337-04:00:Failed: 2
+2021-06-16T12:14:37.5304181-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-16T12:14:37.5304181-04:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults\Unnamed project__2021-06-16T121336.html'
+========== End of log file ==========

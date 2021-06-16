@@ -11,8 +11,12 @@ namespace Tests
     {
 
         private FormPageElements formPage;
-
-
+        
+        public static void tearDown(IWebDriver driver)
+        {
+            driver.Close();
+            driver = null;
+        }
         [Fact]
         [Trait("Category", "Smoke")]
         public void LoadAboutPage()
@@ -23,6 +27,7 @@ namespace Tests
                 driver.Navigate().GoToUrl("https://localhost:44310/");
                 String title = driver.Title;
                 Assert.Equal("Home page - TestWebApp", title);
+                
             }
             
         }

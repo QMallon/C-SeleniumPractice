@@ -1,0 +1,120 @@
+﻿2021-06-16T12:44:04.2041523-04:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-06-16T12:44:04.2041523-04:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.8.12 in Framework clr40 in x86 mode execution started
+2021-06-16T12:44:04.2041523-04:00;VSTestExecutionThread;Info;TestAdapter Location: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-06-16T12:44:04.2041523-04:00;VSTestExecutionThread;Info;Current UserName: 'qpm5', MachineName: 'DESKTOP-3A1SVR2'
+2021-06-16T12:44:04.2420227-04:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:44:04.2420227-04:00;VSTestExecutionThread;Info;Output folder configured to "D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults" (default)
+2021-06-16T12:44:04.2420227-04:00;VSTestExecutionThread;Info;Profile: 
+2021-06-16T12:44:04.2721364-04:00;VSTestExecutionThread;Info;Log file path: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults\Unnamed project__2021-06-16T124404.log
+2021-06-16T12:44:04.2781203-04:00;Thread#14;Info;Checking activation
+2021-06-16T12:44:04.3239974-04:00;Thread#14;Info;Activated.
+2021-06-16T12:44:04.3249944-04:00;Thread#14;Info;Activation check completed
+2021-06-16T12:44:04.3249944-04:00;Thread#14;Info;Starting test run
+2021-06-16T12:44:04.3519240-04:00;Thread#14;Info;Discovering target: Default
+2021-06-16T12:44:04.3519240-04:00;Thread#14;Info;Discovering tests from assembly: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:44:04.5578842-04:00;Thread#14;Info;Discovered tests from assembly: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:44:04.5588818-04:00:Test Suite Dump
+2021-06-16T12:44:04.5598799-04:00:#0: Unnamed project/ - 
+2021-06-16T12:44:04.5598799-04:00:#1: Default - 
+2021-06-16T12:44:04.5598799-04:00:#2: BDDPractice - 
+2021-06-16T12:44:04.5598799-04:00:#3: FormFeatures - 
+2021-06-16T12:44:04.5868067-04:00:#4: User fills out form - TestAssembly:BDDPractice/Feature:FormFeatures/Scenario:User+fills+out+form
+2021-06-16T12:44:04.5868067-04:00:#5: User fils out form correctly - TestAssembly:BDDPractice/Feature:FormFeatures/Scenario:User+fils+out+form+correctly
+2021-06-16T12:44:04.5868067-04:00:End: Test Suite Dump
+2021-06-16T12:44:04.6037625-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:44:04.6047594-04:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-06-16T12:44:04.6047594-04:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-06-16T12:44:04.6077511-04:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:44:04.6087488-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:44:04.6087488-04:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:44:04.6087488-04:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-06-16T12:44:04.6087488-04:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-06-16T12:44:04.6097457-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-16T12:44:04.6117402-04:00:Thread #0: creating new test thread executor for BDDPractice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-06-16T12:44:04.6127374-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-16T12:44:04.6157302-04:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2021-06-16T12:44:04.6167269-04:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2021-06-16T12:44:04.8451160-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\LivingDoc.SpecFlowPlugin.dll
+2021-06-16T12:44:04.8994813-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-06-16T12:44:04.9024726-04:00:Thread#0:T:-> Loading plugin D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\BDDPractice.dll
+2021-06-16T12:44:04.9024726-04:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in BDDPractice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-06-16T12:44:04.9074600-04:00:Thread#0:T:-> Using default config
+2021-06-16T12:44:05.2437188-04:00:Thread#0: Test #4/0 is started on thread #0
+2021-06-16T12:44:06.7305048-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:44:06.8771140-04:00:Thread#0:T:done: FormFeaturesSteps.GivenUserIsOnTheFormPage() (0.1s)
+2021-06-16T12:44:06.8791092-04:00:Thread#0:B:When User leaves form blank
+2021-06-16T12:44:06.9269805-04:00:Thread#0:T:done: FormFeaturesSteps.WhenUserLeavesFormBlank() (0.0s)
+2021-06-16T12:44:06.9269805-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:44:06.9628833-04:00:Thread#0:T:done: FormFeaturesSteps.WhenClicksSignInButton() (0.0s)
+2021-06-16T12:44:06.9628833-04:00:Thread#0:B:Then Alert will read "Email is blank"
+2021-06-16T12:44:06.9728563-04:00:Thread#0:T:done: FormFeaturesSteps.ThenAlertWillRead("Email is blank") (0.0s)
+2021-06-16T12:44:06.9728563-04:00:Thread#0:B:When User leaves password blank
+2021-06-16T12:44:07.0606228-04:00:Thread#0:T:done: FormFeaturesSteps.WhenUserLeavesPasswordBlank() (0.1s)
+2021-06-16T12:44:07.0606228-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:44:07.0935354-04:00:Thread#0:T:done: FormFeaturesSteps.WhenClicksSignInButton() (0.0s)
+2021-06-16T12:44:07.0935354-04:00:Thread#0:B:Then Alert will read "password is blank"
+2021-06-16T12:44:07.0965262-04:00:Thread#0:T:done: FormFeaturesSteps.ThenAlertWillRead("password is blank") (0.0s)
+2021-06-16T12:44:07.0965262-04:00:Thread#0:B:When User leaves address blank
+2021-06-16T12:44:07.2076621-04:00:Thread#0:T:done: FormFeaturesSteps.WhenUserLeavesAddressBlank() (0.1s)
+2021-06-16T12:44:07.2076621-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:44:07.2405741-04:00:Thread#0:T:done: FormFeaturesSteps.WhenClicksSignInButton() (0.0s)
+2021-06-16T12:44:07.2405741-04:00:Thread#0:B:Then Alert will read "address is blank"
+2021-06-16T12:44:07.2415708-04:00:Thread#0:T:done: FormFeaturesSteps.ThenAlertWillRead("address is blank") (0.0s)
+2021-06-16T12:44:07.2415708-04:00:Thread#0:B:When User leaves city blank
+2021-06-16T12:44:07.3173686-04:00:Thread#0:T:done: FormFeaturesSteps.WhenUserLeavesCityBlank() (0.1s)
+2021-06-16T12:44:07.3173686-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:44:07.3353205-04:00:Thread#0:T:done: FormFeaturesSteps.WhenClicksSignInButton() (0.0s)
+2021-06-16T12:44:07.3353205-04:00:Thread#0:B:Then Alert will read "city is blank"
+2021-06-16T12:44:07.3373169-04:00:Thread#0:T:done: FormFeaturesSteps.ThenAlertWillRead("city is blank") (0.0s)
+2021-06-16T12:44:07.3373169-04:00:Thread#0:B:When User leaves zip blank
+2021-06-16T12:44:07.3831933-04:00:Thread#0:T:done: FormFeaturesSteps.WhenUserLeavesZipBlank() (0.0s)
+2021-06-16T12:44:07.3831933-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:44:07.4091269-04:00:Thread#0:T:done: FormFeaturesSteps.WhenClicksSignInButton() (0.0s)
+2021-06-16T12:44:07.4101219-04:00:Thread#0:B:Then Alert will read "zip is blank"
+2021-06-16T12:44:07.4161069-04:00:Thread#0:T:done: FormFeaturesSteps.ThenAlertWillRead("zip is blank") (0.0s)
+2021-06-16T12:44:07.4250809-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:44:07.4250809-04:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-06-16T12:44:07.4250809-04:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-06-16T12:44:07.4250809-04:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-06-16T12:44:07.4250809-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-06-16T12:44:07.4250809-04:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-06-16T12:44:07.4250809-04:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-06-16T12:44:07.4250809-04:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-06-16T12:44:07.4250809-04:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-06-16T12:44:07.5541399-04:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 2.3094249 seconds
+2021-06-16T12:44:07.5551373-04:00:Thread#0: Test #5/0 is started on thread #0
+2021-06-16T12:44:08.7915168-04:00:Thread#0:B:Given User is on the form page
+2021-06-16T12:44:08.9181801-04:00:Thread#0:T:done: FormFeaturesSteps.GivenUserIsOnTheFormPage() (0.1s)
+2021-06-16T12:44:08.9181801-04:00:Thread#0:B:When User inputs all information
+2021-06-16T12:44:09.1610371-04:00:Thread#0:T:done: FormFeaturesSteps.WhenUserInputsAllInformation() (0.2s)
+2021-06-16T12:44:09.1610371-04:00:Thread#0:B:And clicks Sign in button
+2021-06-16T12:44:09.1969409-04:00:Thread#0:T:done: FormFeaturesSteps.WhenClicksSignInButton() (0.0s)
+2021-06-16T12:44:09.1969409-04:00:Thread#0:B:Then Alert will read "Submited Form"
+2021-06-16T12:44:09.1989387-04:00:Thread#0:T:done: FormFeaturesSteps.ThenAlertWillRead("Submited Form") (0.0s)
+2021-06-16T12:44:09.1999344-04:00:Thread#0:Scheduler: get next test for thread 0
+2021-06-16T12:44:09.1999344-04:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-16T12:44:09.1999344-04:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-06-16T12:44:09.1999344-04:00:Thread#0:Scheduler: No more tests for thread
+2021-06-16T12:44:13.3854795-04:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 5.8303422 seconds
+2021-06-16T12:44:13.4204704-04:00:Thread#0:T:-> LivingDocPlugin: Output generated in: D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\BDD Practice\bin\Debug\net461\TestExecution.json
+2021-06-16T12:44:13.7444397-04:00:Trying to cancel thread
+2021-06-16T12:44:13.7444397-04:00:Thread cancelled
+2021-06-16T12:44:13.7494266-04:00:Thread#-1:Scheduler: get next test for thread -1
+2021-06-16T12:44:13.7494266-04:00:Thread#:Scheduler: at the end of normal test queue
+2021-06-16T12:44:13.7494266-04:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-06-16T12:44:13.7504238-04:00;Thread#14;Info;test run finished
+2021-06-16T12:44:13.7504238-04:00;Thread#14;Info;publishing test results
+2021-06-16T12:44:13.7833373-04:00;Thread#14;Info;test results published
+2021-06-16T12:44:13.7833373-04:00;Thread#14;Info;generating reports
+2021-06-16T12:44:13.8541460-04:00;Thread#14;Info;Starting external report generation process
+2021-06-16T12:44:15.0067229-04:00;Thread#14;Info;Successfully generated reports.
+2021-06-16T12:44:15.0077210-04:00;Thread#14;Info;Successfully generated reports
+2021-06-16T12:44:15.0137041-04:00:Total: 2
+2021-06-16T12:44:15.0147013-04:00:Succeeded: 2
+2021-06-16T12:44:15.0147013-04:00:Ignored: 0
+2021-06-16T12:44:15.0156985-04:00:Pending: 0
+2021-06-16T12:44:15.0156985-04:00:Skipped: 0
+2021-06-16T12:44:15.0156985-04:00:Failed: 0
+2021-06-16T12:44:15.0226800-04:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-06-16T12:44:15.0226800-04:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestResults\Unnamed project__2021-06-16T124404.html'
+========== End of log file ==========

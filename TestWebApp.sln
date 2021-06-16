@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{8EB70B9F-A82E-45C4-90DF-2AB467F3B42C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{8EB70B9F-A82E-45C4-90DF-2AB467F3B42C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DB2566AF-7F37-4B2B-9266-2C3150210728}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{DB2566AF-7F37-4B2B-9266-2C3150210728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDPractice", "BDD Practice\BDDPractice.csproj", "{15BF3CA2-7452-455A-B3B8-A659CB3CD0A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DB2566AF-7F37-4B2B-9266-2C3150210728}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB2566AF-7F37-4B2B-9266-2C3150210728}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB2566AF-7F37-4B2B-9266-2C3150210728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15BF3CA2-7452-455A-B3B8-A659CB3CD0A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BF3CA2-7452-455A-B3B8-A659CB3CD0A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BF3CA2-7452-455A-B3B8-A659CB3CD0A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BF3CA2-7452-455A-B3B8-A659CB3CD0A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
