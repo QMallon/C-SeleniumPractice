@@ -14,10 +14,12 @@
         "outputPath": "D:\\PROGRAMSHERE\\c#\\c-Selenium_Testing_Practice\\TestWebApp\\BDD Practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\qpm5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +31,7 @@
         },
         "frameworks": {
           "net461": {
+            "targetAlias": "net461",
             "projectReferences": {
               "D:\\PROGRAMSHERE\\c#\\c-Selenium_Testing_Practice\\TestWebApp\\TestWebApp\\TestWebApp.csproj": {
                 "projectPath": "D:\\PROGRAMSHERE\\c#\\c-Selenium_Testing_Practice\\TestWebApp\\TestWebApp\\TestWebApp.csproj"
@@ -44,6 +47,7 @@
       },
       "frameworks": {
         "net461": {
+          "targetAlias": "net461",
           "dependencies": {
             "FluentAssertions": {
               "target": "Package",
@@ -78,7 +82,7 @@
               "version": "[3.8.12, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -92,10 +96,12 @@
         "outputPath": "D:\\PROGRAMSHERE\\c#\\c-Selenium_Testing_Practice\\TestWebApp\\TestWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\qpm5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -107,6 +113,7 @@
         },
         "frameworks": {
           "net461": {
+            "targetAlias": "net461",
             "projectReferences": {}
           }
         },
@@ -118,6 +125,7 @@
       },
       "frameworks": {
         "net461": {
+          "targetAlias": "net461",
           "dependencies": {
             "Microsoft.AspNetCore": {
               "target": "Package",
@@ -144,7 +152,7 @@
               "version": "[3.8.7, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

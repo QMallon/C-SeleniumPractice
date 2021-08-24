@@ -1,7 +1,6 @@
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\app.config
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\appsettings.Development.json
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\appsettings.json
-D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\Properties\launchSettings.json
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\TestWebApp.exe.config
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\TestWebApp.deps.json
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\TestWebApp.exe
@@ -317,7 +316,6 @@ D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\n
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\System.Xml.XmlSerializer.dll
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\System.Xml.XPath.dll
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\bin\Debug\net461\System.Xml.XPath.XDocument.dll
-D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.csprojAssemblyReference.cache
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.exe.config
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.AssemblyInfoInputs.cache
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.AssemblyInfo.cs
@@ -344,3 +342,4 @@ D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\n
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.csproj.CopyComplete
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.exe
 D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.pdb
+D:\PROGRAMSHERE\c#\c-Selenium_Testing_Practice\TestWebApp\TestWebApp\obj\Debug\net461\TestWebApp.csproj.AssemblyReference.cache
